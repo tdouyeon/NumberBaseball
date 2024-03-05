@@ -9,12 +9,10 @@
           <br>
 <img width="201" alt="스크린샷 2024-03-05 오후 4 01 42" src="https://github.com/tdouyeon/NumberBaseball/assets/158057604/71175808-062f-4239-88ea-d5422498c8e9">
 
-
-
-
-
 <h3>1. 프로젝트 흐름</h3>
 <img width="724" alt="스크린샷 2024-03-05 오후 3 56 37" src="https://github.com/tdouyeon/NumberBaseball/assets/158057604/e06e2b48-205e-47af-92d7-2b97784342c3">
 
 <h3>2. 프로젝트 화면</h3>
 <img width="429" alt="image" src="https://github.com/tdouyeon/NumberBaseball/assets/158057604/494d3d15-0c1c-4f1b-829c-323ed76b9f80">
+
+💻 포트폴리오 ppt: (https://github.com/tdouyeon/NumberBaseball/files/14491621/_.pptx)
