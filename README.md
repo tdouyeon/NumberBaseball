@@ -1,3 +1,4 @@
+💻 포트폴리오 ppt: https://github.com/tdouyeon/NumberBaseball/files/14491621/_.pptx
 <h1>숫자 야구 게임 PROJECT</h1>
 개발 기간 | 2023.11.11 – 2023.11.18 <br>
 개발 인원 | 1명(개인 프로젝트) <br>
@@ -15,4 +16,3 @@
 <h3>2. 프로젝트 화면</h3>
 <img width="429" alt="image" src="https://github.com/tdouyeon/NumberBaseball/assets/158057604/494d3d15-0c1c-4f1b-829c-323ed76b9f80">
 
-💻 포트폴리오 ppt: (https://github.com/tdouyeon/NumberBaseball/files/14491621/_.pptx)
